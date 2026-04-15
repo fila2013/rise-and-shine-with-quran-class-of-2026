@@ -4,12 +4,19 @@ import gallery1 from '@/assets/gallery-1.webp';
 import gallery2 from '@/assets/gallery-2.webp';
 import gallery3 from '@/assets/gallery-3.webp';
 import gallery4 from '@/assets/gallery-4.webp';
+import gallery5 from '@/assets/gallery-5.webp';
+import gallery6 from '@/assets/gallery-6.webp';
+import gallery7 from '@/assets/gallery-7.webp';
 
 const photos = [
   { src: gallery1, alt: 'Kelas Halimah As-Sadiyyah' },
   { src: gallery2, alt: 'Kelas Hamnah binti Jahsy' },
   { src: gallery3, alt: 'Kelas Hamza ibn Abd al-Muttalib' },
   { src: gallery4, alt: 'Kelas Zubair bin al-Awwam' },
+  { src: gallery5, alt: '' },
+  { src: gallery6, alt: '' },
+  { src: gallery7, alt: '' },
+
 ];
 
 const GallerySection = () => {
